@@ -1,14 +1,15 @@
 ## Laravel PHP Framework With Basic Authentication
 
 This repository come with basic authentication for Laravel 5.1.11 as the fresh Laravel checkout didn't include all the required files by default.
+
 Features:
-1- Register New User
-2- Login / Logout
-3- Reset Password using Local Fake Email
+- Register New User
+- Login / Logout
+- Reset Password using Fake Local Email
 
 ## Instruction 
 
-Checkout and install composer using "composer install" command.
+Checkout and install composer using `composer install` command.
 
 
 ## Laravel PHP Framework 
