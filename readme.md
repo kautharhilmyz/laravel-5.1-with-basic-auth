@@ -9,7 +9,9 @@ Features:
 
 ## Instruction 
 
-Checkout and install composer using `composer install` command.
+- Checkout and install composer using `composer install` command.
+- Setup your database configuration at `.env` file.
+- Generate database table using `php artisan migrate` command.
 
 
 ## Laravel PHP Framework 
