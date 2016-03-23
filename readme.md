@@ -9,7 +9,8 @@ Features:
 
 ## Instruction 
 
-- Checkout and install composer using `composer install` command.
+- Checkout and install required packages using `composer install` command.
+- Run composer `php artisan key:generate` to generate new APP_KEY
 - Setup your database configuration at `.env` file.
 - Generate database table using `php artisan migrate` command.
 
